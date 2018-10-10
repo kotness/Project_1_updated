@@ -1,0 +1,31 @@
+h1, h2, h3, h4, h5, h6 {
+
+font-family: 'Laila', serif;
+border-color: #c0c0c0;
+padding: 20px;
+border-style: solid;
+}
+
+p, ul {
+
+    font-family: 'Exo 2', sans-serif;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 15px;
+    padding: 25px;
+ border-style: solid;
+}
+
+* {
+
+background-color: #0d0f87;
+color:white;
+
+}
+a {
+
+    text-decoration: #c0c0c0;
+    color: #c0c0c0;
+    
+}
+
